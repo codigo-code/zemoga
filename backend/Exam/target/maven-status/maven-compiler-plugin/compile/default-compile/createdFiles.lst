@@ -1,0 +1,8 @@
+com\zemoga\repositories\PortfolioRepository.class
+com\zemoga\services\Twitter\TwitterIntegrationServiceImpl$1.class
+com\zemoga\controller\PortfolioController.class
+com\zemoga\services\Twitter\TwitterIntegrationService.class
+com\zemoga\services\Twitter\TwitterIntegrationServiceImpl.class
+com\zemoga\dto\Portfolio.class
+com\zemoga\App.class
+com\zemoga\SpringFoxConfig.class
